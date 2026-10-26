@@ -11,11 +11,11 @@ The system simplifies academic reading by automatically evaluating paper quality
 
 ## 📊 Research Paper Evaluation
 
-* Composite research quality score
-* Language quality analysis
-* Coherence and reasoning evaluation
-* Readability score
-* Vocabulary sophistication analysis
+- Composite research quality score
+- Language quality analysis
+- Coherence and reasoning evaluation
+- Readability score
+- Vocabulary sophistication analysis
 
 ---
 
@@ -23,13 +23,13 @@ The system simplifies academic reading by automatically evaluating paper quality
 
 PaperIQ automatically detects sections such as:
 
-* Abstract
-* Introduction
-* Literature Review
-* Methodology
-* Results
-* Discussion
-* Conclusion
+- Abstract
+- Introduction
+- Literature Review
+- Methodology
+- Results
+- Discussion
+- Conclusion
 
 Each section is summarized using **NLP-based summarization algorithms**.
 
@@ -39,11 +39,11 @@ Each section is summarized using **NLP-based summarization algorithms**.
 
 The system extracts the most important keywords and identifies the research domain such as:
 
-* Computer Science
-* Engineering
-* Healthcare
-* Finance
-* Education
+- Computer Science
+- Engineering
+- Healthcare
+- Finance
+- Education
 
 ---
 
@@ -51,11 +51,11 @@ The system extracts the most important keywords and identifies the research doma
 
 PaperIQ performs deeper analysis including:
 
-* Research gap detection
-* Contribution detection
-* Semantic strength scoring
-* Novelty score calculation
-* Internal redundancy detection
+- Research gap detection
+- Contribution detection
+- Semantic strength scoring
+- Novelty score calculation
+- Internal redundancy detection
 
 ---
 
@@ -63,10 +63,10 @@ PaperIQ performs deeper analysis including:
 
 The system automatically identifies citation patterns and calculates:
 
-* Total citations
-* Citation density
-* Impact score
-* Average citation year
+- Total citations
+- Citation density
+- Impact score
+- Average citation year
 
 ---
 
@@ -82,10 +82,10 @@ The chatbot uses **TF-IDF vectorization and cosine similarity** to retrieve the 
 
 PaperIQ supports comparison of multiple research papers including:
 
-* Composite score comparison
-* Citation comparison
-* Semantic strength comparison
-* Paper similarity matrix
+- Composite score comparison
+- Citation comparison
+- Semantic strength comparison
+- Paper similarity matrix
 
 ---
 
@@ -93,9 +93,9 @@ PaperIQ supports comparison of multiple research papers including:
 
 Interactive visualizations include:
 
-* Score distribution graphs
-* Performance breakdown charts
-* Paper comparison charts
+- Score distribution graphs
+- Performance breakdown charts
+- Paper comparison charts
 
 ---
 
@@ -109,11 +109,11 @@ Users can view previously analyzed papers and download reports again.
 
 PaperIQ generates a detailed PDF report including:
 
-* Document statistics
-* Score breakdown
-* Section summaries
-* Visual charts
-* Research insights
+- Document statistics
+- Score breakdown
+- Section summaries
+- Visual charts
+- Research insights
 
 ---
 
@@ -121,24 +121,24 @@ PaperIQ generates a detailed PDF report including:
 
 ### Programming Language
 
-* Python
+- Python
 
 ### Framework
 
-* Streamlit
+- Streamlit
 
 ### Libraries Used
 
-* NumPy
-* TextBlob
-* PDFPlumber
-* python-docx
-* Plotly
-* Scikit-learn
-* FPDF
-* Pandas
-* Matplotlib
-* Regular Expressions (re)
+- NumPy
+- TextBlob
+- PDFPlumber
+- python-docx
+- Plotly
+- Scikit-learn
+- FPDF
+- Pandas
+- Matplotlib
+- Regular Expressions (re)
 
 These libraries provide functionality for **Natural Language Processing, Machine Learning, Data Visualization, and Document Processing**.
 
@@ -213,13 +213,12 @@ http://localhost:8501
 3. NLP algorithms analyze the document content.
 
 4. PaperIQ generates insights including:
-
-   * Section summaries
-   * Keywords and domain
-   * Citation analysis
-   * Research gaps
-   * Sentiment analysis
-   * Paper quality scores
+   - Section summaries
+   - Keywords and domain
+   - Citation analysis
+   - Research gaps
+   - Sentiment analysis
+   - Paper quality scores
 
 5. A complete **PDF analysis report** is generated.
 
@@ -229,43 +228,43 @@ http://localhost:8501
 
 PaperIQ provides outputs such as:
 
-* Composite Research Quality Score
-* Language and Readability Evaluation
-* Research Domain Detection
-* AI Writing Feedback
-* Recommended Academic Journals
-* Paper Similarity Comparison
-* Research Gap Identification
+- Composite Research Quality Score
+- Language and Readability Evaluation
+- Research Domain Detection
+- AI Writing Feedback
+- Recommended Academic Journals
+- Paper Similarity Comparison
+- Research Gap Identification
 
 ---
 
 # 📌 Future Improvements
 
-* AI research assistant integration
-* Plagiarism detection
-* Improved section detection
-* Cloud deployment
-* User authentication with database
-* Citation network visualization
+- AI research assistant integration
+- Plagiarism detection
+- Improved section detection
+- Cloud deployment
+- User authentication with database
+- Citation network visualization
 
 ---
 
 # Contributing
 
 ```bash
-# get latest changes 
-git pull origin main 
+# get latest changes
+git pull origin main
 
-# make your changes 
-git add . 
+# make your changes
+git add .
 
-git commit -m "short description" 
+git commit -m "short description"
 
-# push to branch/main 
+# push to branch/main
 git push origin main
 ```
 
-> [!NOTE] 
+> [!NOTE]
 > Open a Pull Request
 > Create a PR from your branch to the `main` branch of this repository.
 
@@ -274,3 +273,7 @@ git push origin main
 # 📜 License
 
 This project is intended for **educational and research purposes**.
+
+# PaperIQ
+
+PaperIQ - Research Paper Analysis Application
